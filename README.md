@@ -66,13 +66,13 @@ Escolha uma opção: 1
 
 Escolha o nome do seu personagem: NEKO
 
-------- Escolha uma das classes a seguir ------
+------- Escolha uma das categorias a seguir ------
 1. Bardo
 2. Guerreiro
 3. Mago
 4. Ladino
 5. Arqueiro
-6. Ver detalhes/atributos das classes
+6. Ver atributos das classes
 Opção escolhida: 1
 
 =================================================
@@ -90,9 +90,9 @@ Vida:     ███████████████ 105/105
 ------------------------------------------------
 
 --- SEU TURNO ---
-1. ATACAR BÁSICO 
-2. HABILIDADES 
-3. DEFENDER 
+1. ATAQUE BÁSICO 
+2. HABILIDADE ESPECIAL 
+3. DEFESA
 4. INVENTÁRIO 
 
 ## Autora
