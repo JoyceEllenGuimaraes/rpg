@@ -1,0 +1,15 @@
+# Arquivos compilados do Java
+*.class
+bin/
+build/
+target/
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+save_jogo.dat
