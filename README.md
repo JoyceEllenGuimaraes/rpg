@@ -19,7 +19,7 @@ Sistema de Save (Persistência): Faz o salvamento e o carregamento do estado com
 
 Tratamento de Exceções: Sistema de leitura segura com Scanner para o caso de possíveis falhas ocorridas por digitação incorreta do usuário (InputMismatchException).
 
-## Tecnologias Utilizadas
+## As Tecnologias Utilizadas
 Linguagem: Java (JDK 21+)
 IDE: Eclipse IDE
 
